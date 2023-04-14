@@ -602,7 +602,7 @@ div.menu-movil span {
 .logo-redes {
   display: inline-block;
   position: fixed;
-  bottom: 3%;
+  bottom: 4%;
   right: 4px;
   z-index: 1000;
 }
@@ -612,8 +612,8 @@ div.menu-movil span {
 }
 .contacto-desarrollador-container {
   position: absolute;
-  top: 94%;
-  right: 1%;
+  top: 92%;
+  right: 2%;
 }
 .contacto-desarrollador-container p {
   padding: 0;
