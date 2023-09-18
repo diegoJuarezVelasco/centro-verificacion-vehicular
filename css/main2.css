@@ -415,19 +415,17 @@ div.menu-movil span {
 .contenedor-horarios h2 span {
   font-weight: bold;
 }
-.imagen-calendario {
-  display: flex;
-  justify-content: center;
-}
+
 /* @media only screen and (min-width: 992px) {
-  .imagen-calendario {
-    width: 70%;
-    margin: 0 auto;
+  .imagen-calendario img {
+    width:50%;
+    display: flex;
+    justify-content: center;
     
   }
-  
+   */
 
-} */
+}
 
 /* Mapa */
 .contenedor-contacto {
