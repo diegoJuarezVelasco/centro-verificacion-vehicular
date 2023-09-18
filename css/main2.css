@@ -136,6 +136,10 @@ textarea {
   display: inline-block;
   
 }
+.imagen-calendario {
+  display: flex;
+  justify-content: center;
+}
 .logo-verificacion {
   width: 150px;
   
